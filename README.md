@@ -1,4 +1,4 @@
-# Software-Engineering-Projects
+# Software-Engineering-Principals-Techniques-Projects
 ## Copyright Usage and License
 
 Regarding Copyright laws by GitHub it states that a public repository without a license means that if you want to use my code you must fork my repository as I retain all proprietary rights.
